@@ -29,5 +29,4 @@ A full-stack **MERN (MongoDB, Express, React, Node.js)** web application that al
 
 ---
 
-## 📁 Project Structure
 
