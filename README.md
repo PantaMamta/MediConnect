@@ -113,6 +113,7 @@ Make sure to add the following variables in your `.env` file:
 * Appointment notifications
 * Payment integration
 * Admin panel
+* future goal is to build a mobile app
 
 ---
 
