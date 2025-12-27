@@ -134,6 +134,3 @@ This project is licensed under the **MIT License**.
 **Mamata Pant**
 Computer Engineering Student
 MERN Stack Developer
-
--
-```
