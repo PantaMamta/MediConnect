@@ -1,9 +1,4 @@
-Here’s a **professional, clean, and GitHub-ready `README.md`** for your project.
-You can **copy–paste directly** 👇
 
----
-
-```md
 # 🏥 Doctor Information & Appointment System (MERN)
 
 A full-stack **MERN (MongoDB, Express, React, Node.js)** web application designed to help users view doctors, check their specialization, availability, consultation fees, and book appointments easily.
