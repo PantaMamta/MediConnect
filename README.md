@@ -121,11 +121,6 @@ Make sure to add the following variables in your `.env` file:
 Contributions, issues, and feature requests are welcome.
 Feel free to fork this repository and submit a pull request.
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
