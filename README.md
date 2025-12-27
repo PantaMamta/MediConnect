@@ -65,7 +65,7 @@ This project follows a **clean architecture**, **RESTful API design**, and a **r
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/PantaMamta/MediConnect.git
 ````
 
 ### 2️⃣ Backend setup
