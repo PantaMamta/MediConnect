@@ -102,7 +102,7 @@ Make sure to add the following variables in your `.env` file:
 * `PORT`
 * `MONGO_URI`
 
-> ⚠️ Do not push `.env` or `node_modules` to GitHub.
+
 
 ---
 
